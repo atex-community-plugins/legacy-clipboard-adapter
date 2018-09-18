@@ -18,6 +18,7 @@ In order to get this plugin to work it is required to follow the following steps
 <module>plugins/legacy-clipboard-adapter</module>
 ```
 * Add a custom.js script to webapp-polopoly/src/main/webapp/script/custom.js
+  
   (see below or copy it from legacy-clipboard-adapter/src/main/script/custom.js)
 
 # Custom Script
